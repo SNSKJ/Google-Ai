@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Lie Browser",
+  "description": "An infinite browser where a sometimes-untruthful AI answers your questions with a Google-like interface. Ask anything and see if you can spot the lie!",
+  "requestFramePermissions": []
+}
